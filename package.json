@@ -1,0 +1,38 @@
+{
+  "name": "jedi-count-files",
+  "version": "1.0.0",
+  "description": "These are not the files you are looking for",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pete-hotchkiss/jedi-count-files.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "filesystem",
+    "jedi",
+    "warriors"
+  ],
+  "author": "Pete Hotchkiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pete-hotchkiss/jedi-count-files/issues"
+  },
+  "homepage": "https://github.com/pete-hotchkiss/jedi-count-files#readme",
+  "devDependencies": {
+    "anymatch": "^1.3.0",
+    "folder-walker": "^3.0.0",
+    "nanobench": "^1.0.3",
+    "standard": "^8.6.0",
+    "stream-each": "^1.2.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "prettier-bytes": "^1.0.3"
+  }
+}
