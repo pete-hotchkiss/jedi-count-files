@@ -13,6 +13,7 @@ function count (dir, opts, cb) {
     bytes: 0,
     filtered: 0,
   }
+  
   var cnt = 0;
 
   fs.readdir(dir, function (err, list) {
