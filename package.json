@@ -1,6 +1,6 @@
 {
   "name": "jedi-count-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "These are not the files you are looking for",
   "main": "index.js",
   "scripts": {
